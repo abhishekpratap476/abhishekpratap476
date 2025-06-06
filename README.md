@@ -37,7 +37,6 @@ I'm a passionate full-stack developer building practical, user-friendly web appl
 
 ## 📌 Featured Projects
 - 🏠 **Hire Me** – Household services platform (MERN + Maps + Auth)
-- **Bindu** - An online e-commers website that sells the hand made product which are made by household womens
 
 ---
 
